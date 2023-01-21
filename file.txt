@@ -1,0 +1,2 @@
+cabal run haskell-ascii-art -- cat_roll.jpg cat_roll.txt
+Up to date
